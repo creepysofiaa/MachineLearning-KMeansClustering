@@ -1,2 +1,2 @@
 # MachineLearning-KMeansClustering
- "Speed Dating Experiment" Dataset from Kaggle
+ Solutions for Dating Apps. Using "Speed Dating Experiment" Dataset from Kaggle.
